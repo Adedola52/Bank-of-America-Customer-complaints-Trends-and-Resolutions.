@@ -91,4 +91,5 @@ _____
 - **Regular Audits and Reviews:** Conduct periodic reviews of the complaint management process and resolution strategies to identify areas for improvement. Regular audits can uncover recurring issues and prevent future problems.
 
 Read full *documentation* here: https://medium.com/@abowabat/bank-of-america-customer-complaints-trends-and-resolutions-20a576e4c6d8
+Interact with *dashboard* here: https://app.powerbi.com/view?r=eyJrIjoiMjQ5YjYxYjctMDM1Mi00NDhlLTg2OTgtZDc4MmVjOTU4MmNkIiwidCI6IjlhZWU5NDM3LTVkNWEtNGU5OS1iNjA2LTExOGUzNTRmMWJmMSJ9
 Connect with me on *LinkedIn*: www.linkedin.com/in/taibat-abowaba
